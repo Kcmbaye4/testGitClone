@@ -1,1 +1,3 @@
 Ceci est un fichier de l'univers "dev"
+
+Un texte depuis le serveur central sur l'univers dev
